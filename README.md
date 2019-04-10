@@ -4,7 +4,7 @@ Stand alone javascript gallery plugin. No libraries.
 Wrap images inside the "fg-gallery" div
 Add additional class if necessary
 ```
-<div class="fg-gallery ad-class">
+<div class="fg-gallery additional-class">
   <img src="image.jpg" />
   <img src="image.jpg" />
   <img src="image.jpg" />
